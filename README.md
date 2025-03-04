@@ -1,4 +1,5 @@
 # 🦜 LangChain App: Summarize Text from YouTube or Website  
+# App link: https://gen-ai-app-summarize-text-from-yt-or-website-n6tvtebnz7opvvtug.streamlit.app/
 
 This project is a **Streamlit web app** that extracts and summarizes text from **YouTube video transcripts** or **web pages** using the **LangChain framework** and the **Groq LLM (Gemma2-9b-it model)**.
 
