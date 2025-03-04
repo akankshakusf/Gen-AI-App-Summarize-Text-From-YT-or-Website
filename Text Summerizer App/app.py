@@ -25,10 +25,11 @@ st.subheader("Summarize URL")
 
 # Read API key from Streamlit secrets
 
-#groq_api_key = st.secrets["GROQ_API_KEY"]
+groq_api_key = st.secrets["GROQ_API_KEY"] #comment this when running on VS code
 
 with st.sidebar:
-    groq_api_key = st.text_input("Groq API Key", value="", type="password")  # api key added
+    groq_api_key = st.text_input("Groq API Key", value=groq_api_key, type="password")  # api key added
+    #groq_api_key = st.text_input("Groq API Key", value="", type="password")  #uncomment this when running on VS code
 
 generic_url = st.text_input("URL", label_visibility="collapsed")  # Input for URL
 
