@@ -1,4 +1,4 @@
-# 🦜 LangChain: Summarize Text from YouTube or Website  
+# 🦜 LangChain App: Summarize Text from YouTube or Website  
 
 This project is a **Streamlit web app** that extracts and summarizes text from **YouTube video transcripts** or **web pages** using the **LangChain framework** and the **Groq LLM (Gemma2-9b-it model)**.
 
@@ -31,22 +31,9 @@ Companies can build **internal AI assistants** that:
 
 Let's take **American Express (Amex)** as an example. Amex deals with **financial transactions, fraud detection, customer service, and risk management**. This tool can **save time, improve efficiency, and automate decision-making** in multiple ways:
 
-### **📈 1️⃣ Financial Document Summarization**  
-- **Problem:** Amex processes thousands of reports, legal documents, and customer inquiries daily.  
-- **Solution:** This app can **automatically summarize** financial reports, credit risk policies, and compliance regulations, reducing manual reading time.  
-### **🤖 2️⃣ AI-Powered Customer Support**  
-- **Problem:** Amex customer service teams handle **millions of requests** daily, often involving FAQs and transaction disputes.  
-- **Solution:** A customized **LLM-based chatbot** can summarize FAQs, past transactions, and customer complaints **instantly**.  
-- **Impact:** Reduces **customer wait times** and helps **agents resolve queries faster**.  
-### **💰 3️⃣ Fraud Detection & Transaction Monitoring**  
-- **Problem:** Amex fights fraud by analyzing thousands of transactions **per second**.  
-- **Solution:** This tool, when combined with **fraud detection algorithms**, can summarize flagged transactions, generate **real-time insights**, and **help analysts detect fraud faster**.  
-- **Customization:** It can **learn from historical fraud cases** to **generate targeted insights** on suspicious activities.  
-
-
 ## 🏗️ **How Companies Can Build Their Own AI-Powered Summarization Tools**  
 
-Businesses like **Amex** can take this open-source project and **customize it for their specific needs**. Here’s how:  
+Businesses like eg**Amex** can take this open-source project and **customize it for their specific needs**. Here’s how:  
 
 ### **1️⃣ Fine-Tuning the LLM with Proprietary Data**  
 - Train the AI on **historical business data** (customer transactions, fraud cases, compliance reports).  
@@ -66,6 +53,3 @@ Businesses like **Amex** can take this open-source project and **customize it fo
 - Automatically summarize customer support emails, financial reports, and legal documents.  
 - Generate **insights dashboards** for management based on summarized data.  
 
----
-//github.com/your-username/langchain-summary-app.git
-cd langchain-summary-app
