@@ -34,27 +34,15 @@ Let's take **American Express (Amex)** as an example. Amex deals with **financia
 ### **📈 1️⃣ Financial Document Summarization**  
 - **Problem:** Amex processes thousands of reports, legal documents, and customer inquiries daily.  
 - **Solution:** This app can **automatically summarize** financial reports, credit risk policies, and compliance regulations, reducing manual reading time.  
-
 ### **🤖 2️⃣ AI-Powered Customer Support**  
 - **Problem:** Amex customer service teams handle **millions of requests** daily, often involving FAQs and transaction disputes.  
 - **Solution:** A customized **LLM-based chatbot** can summarize FAQs, past transactions, and customer complaints **instantly**.  
 - **Impact:** Reduces **customer wait times** and helps **agents resolve queries faster**.  
-
 ### **💰 3️⃣ Fraud Detection & Transaction Monitoring**  
 - **Problem:** Amex fights fraud by analyzing thousands of transactions **per second**.  
 - **Solution:** This tool, when combined with **fraud detection algorithms**, can summarize flagged transactions, generate **real-time insights**, and **help analysts detect fraud faster**.  
 - **Customization:** It can **learn from historical fraud cases** to **generate targeted insights** on suspicious activities.  
 
-### **📊 4️⃣ Personalized Credit & Financial Advisory**  
-- **Problem:** Customers receive **generic** financial advice.  
-- **Solution:** Amex can **train the model** on **customer spending behavior** and **financial goals** to provide **personalized financial insights**.  
-- **Example:** Instead of just listing expenses, the AI can **summarize spending habits** and suggest **cost-saving measures**.  
-
-### **🏦 5️⃣ Risk & Compliance Monitoring**  
-- **Problem:** Banks and financial institutions must ensure **regulatory compliance** with complex laws.  
-- **Solution:** This tool can summarize **new banking regulations, risk reports, and compliance guidelines** for financial analysts, saving **hours of manual work**.  
-
----
 
 ## 🏗️ **How Companies Can Build Their Own AI-Powered Summarization Tools**  
 
