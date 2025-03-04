@@ -22,8 +22,12 @@ st.title("🦜 LangChain: Summarize Text From YT or Website")
 st.subheader("Summarize URL")
 
 ## Get the Groq API key and URL (YT or Website) to be summarized
+
+# Read API key from Streamlit secrets
+groq_api_key = st.secrets["GROQ_API_KEY"]
+
 with st.sidebar:
-    groq_api_key = st.text_input("Groq API Key", value="", type="password")  # API key input
+    groq_api_key = st.text_input("Groq API Key", value=groq_api_key, type="password")  # api key added
 
 generic_url = st.text_input("URL", label_visibility="collapsed")  # Input for URL
 
